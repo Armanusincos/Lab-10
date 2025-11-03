@@ -1,0 +1,2 @@
+cd местоположение файла
+python -m http.server
